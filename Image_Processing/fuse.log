@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/ise/NewImageProcessing/tb_simulation_isim_beh.exe -prj /home/ise/NewImageProcessing/tb_simulation_beh.prj work.tb_simulation work.glbl 
+ISim P.20160913 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/NewImageProcessing/../Verilog_Image_Processing/image_write.v" into library work
+Analyzing Verilog file "/home/ise/NewImageProcessing/../Verilog_Image_Processing/image_read.v" into library work
+WARNING:HDLCompiler:693 - "/home/ise/NewImageProcessing/../Verilog_Image_Processing/image_read.v" Line 46: Parameter declaration becomes local in image_read with formal parameter declaration list
+WARNING:HDLCompiler:693 - "/home/ise/NewImageProcessing/../Verilog_Image_Processing/image_read.v" Line 47: Parameter declaration becomes local in image_read with formal parameter declaration list
+Analyzing Verilog file "/home/ise/NewImageProcessing/../Verilog_Image_Processing/tb_simulation.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95520 KB
+Fuse CPU Usage: 1220 ms
+Compiling module image_read
+Compiling module image_write
+Compiling module tb_simulation
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 4 Verilog Units
+Built simulation executable /home/ise/NewImageProcessing/tb_simulation_isim_beh.exe
+Fuse Memory Usage: 653576 KB
+Fuse CPU Usage: 1280 ms
+GCC CPU Usage: 690 ms

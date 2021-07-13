@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/ise/NewImageProcessing/tb_simulation.xst" -ofn "/home/ise/NewImageProcessing/tb_simulation.syr" 
+xst -intstyle ise -ifn "/home/ise/NewImageProcessing/tb_simulation.xst" -ofn "/home/ise/NewImageProcessing/tb_simulation.syr" 
+xst -intstyle ise -ifn "/home/ise/NewImageProcessing/tb_simulation.xst" -ofn "/home/ise/NewImageProcessing/tb_simulation.syr" 
+xst -intstyle ise -ifn "/home/ise/NewImageProcessing/tb_simulation.xst" -ofn "/home/ise/NewImageProcessing/tb_simulation.syr" 
+xst -intstyle ise -ifn "/home/ise/NewImageProcessing/tb_simulation.xst" -ofn "/home/ise/NewImageProcessing/tb_simulation.syr" 
+xst -intstyle ise -ifn "/home/ise/NewImageProcessing/tb_simulation.xst" -ofn "/home/ise/NewImageProcessing/tb_simulation.syr" 

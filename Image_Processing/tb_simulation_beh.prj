@@ -1,0 +1,4 @@
+verilog work "../Verilog_Image_Processing/image_write.v"
+verilog work "../Verilog_Image_Processing/image_read.v"
+verilog work "../Verilog_Image_Processing/tb_simulation.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
